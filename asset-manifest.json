@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/static/css/main.bb63329c.css",
+    "main.js": "/static/js/main.d93baee2.js",
+    "codemirror-vendor.js": "/static/js/codemirror-vendor.6d9e46da.js",
+    "react-vendor.js": "/static/js/react-vendor.10bc1988.js",
+    "lezer-vendor.js": "/static/js/lezer-vendor.6cfd8114.js",
+    "index.html": "/index.html",
+    "main.bb63329c.css.map": "/static/css/main.bb63329c.css.map",
+    "main.d93baee2.js.map": "/static/js/main.d93baee2.js.map",
+    "codemirror-vendor.6d9e46da.js.map": "/static/js/codemirror-vendor.6d9e46da.js.map",
+    "react-vendor.10bc1988.js.map": "/static/js/react-vendor.10bc1988.js.map",
+    "lezer-vendor.6cfd8114.js.map": "/static/js/lezer-vendor.6cfd8114.js.map"
+  },
+  "entrypoints": [
+    "static/js/codemirror-vendor.6d9e46da.js",
+    "static/js/react-vendor.10bc1988.js",
+    "static/js/lezer-vendor.6cfd8114.js",
+    "static/css/main.bb63329c.css",
+    "static/js/main.d93baee2.js"
+  ]
+}
